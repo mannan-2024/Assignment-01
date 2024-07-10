@@ -170,3 +170,114 @@ body{
     padding:24px 100px;
     text-align: center;
 }
+/* End of inspiration */
+.current-target{
+    margin:80px 150px;
+    
+}
+.current-target h1{
+    font-size: 32px;
+    font-weight:extrabold;
+    color:#0D1321;
+    padding:24px 73px;
+    text-align: center;
+}
+.current-target p{
+    font-size: 16px;
+    font-weight: regular;
+    color:#0D1321;
+    padding:24px 100px;
+    text-align: center;
+}
+ 
+.html-css-js{
+    display: flex; 
+    margin:50px 150px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    
+   
+    
+}
+.html{
+     margin: 12px;  
+     padding: 40px;
+     width: 30%;
+     text-align: left; 
+             
+}
+.html h1{
+    font-size: 24px;
+    font-weight:extrabold;
+    color:#0D1321;
+    text-align: left;
+    padding: 12px;
+    
+    
+}
+.html p{
+    font-size: 16px;
+    font-weight:regular;
+    color:#0D1321;
+    text-align: left;
+    padding:12px ;
+    
+    
+}
+.html a{
+    padding:12px;
+}
+    .css {
+     margin:12px; 
+     padding:40px; 
+    width: 30%; }
+
+   
+    .css h1 {
+       font-size: 24px;
+       font-weight:extrabold;
+       color:#0D1321;
+       text-align: left;
+       padding:12px;}
+       
+   
+   .css p{
+       font-size: 16px;
+       font-weight:regular;
+       color:#0D1321;
+       text-align: left;
+       padding:12px;
+       
+   }
+   .css a{
+    padding:12px;
+   }
+       
+         
+    .js{
+     margin:12px;  
+     padding:40px; 
+    width: 30%;}
+
+
+   .js h1{
+       font-size: 24px;
+       font-weight:extrabold;
+       color:#0D1321;
+       text-align: left;
+       padding:12px;
+       
+   }
+
+   .js p {
+       font-size: 16px;
+       font-weight:regular;
+       color:#0D1321;
+       text-align: left;
+       padding:12px;}
+       
+   .js a{
+    padding:12px;
+   }
+   /* End of current target */
