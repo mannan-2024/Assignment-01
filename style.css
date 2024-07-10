@@ -41,3 +41,114 @@ body{
     font-weight:700;
     cursor: pointer;
 }
+/* End of Header CSS */
+.why{
+    margin:80px 150px;
+}
+.why-dev h1{
+    font-size: 32px;
+    font-weight:regular;
+    color:#0D1321;
+    padding:24px 73px;
+    text-align: center;
+}
+.why-dev p{
+    font-size: 16px;
+    font-weight: regular;
+    color:#0D1321;
+    padding:24px 100px;
+    text-align: center;
+}
+.do-coding{
+    display: flex;
+    padding: 60px 40px;
+    margin-top: 20px;
+    text-align: left;
+}
+.do-code-desc{
+    width: 60%;
+} 
+.do-code-desc h1{
+    font-size: 24px;
+    font-weight:regular;
+    color:#0D1321;
+    padding:15px 73px;
+    text-align: left;
+}
+.do-code-desc p{
+    font-size: 16px;
+    font-weight:regular;
+    color:#0D1321;
+    padding:15px 45px 15px 73px;
+    text-align: left;
+}
+.btn2nd{
+    padding: 12px 20px;
+    font-size: 20px;
+    font-weight:regular;
+    color:#0D1321;
+    margin:20px 70px;
+    border-radius: none;
+}
+.help-people{
+    display: flex;
+    padding: 60px 40px;
+    margin-top: 20px;
+    text-align: left;
+}
+.help-people-desc{
+    width: 60%;
+} 
+.help-people-desc h1{
+    font-size: 24px;
+    font-weight:regular;
+    color:#0D1321;
+    padding:15px 73px;
+    text-align: left;
+}
+.help-people-desc p{
+    font-size: 16px;
+    font-weight:regular;
+    color:#0D1321;
+    padding:15px 45px 15px 73px;
+    text-align: left;
+}
+.btn3rd{
+    padding: 12px 20px;
+    font-size: 20px;
+    font-weight:regular;
+    color:#0D1321;
+    margin:20px 70px;
+    border-radius: none;
+}
+.change-world{
+    display: flex;
+    padding: 60px 40px;
+    margin-top: 20px;
+}
+.change-world-desc{
+    width: 60%;
+} 
+.change-world-desc h1{
+    font-size: 24px;
+    font-weight:regular;
+    color:#0D1321;
+    padding:15px 73px;
+    text-align: left;
+}
+.change-world-desc p{
+    font-size: 16px;
+    font-weight:regular;
+    color:#0D1321;
+    padding:15px 45px 15px 73px;
+    text-align: left;
+}
+.btn4th{
+    padding: 12px 20px;
+    font-size: 20px;
+    font-weight:regular;
+    color:#0D1321;
+    margin:20px 70px;
+    border-radius: none;
+}
+/* End of why section */
